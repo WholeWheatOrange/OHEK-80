@@ -1,2 +1,2 @@
 # OHEK-80
-A tenkeyless (80%) analog hall effect keyboard using 3D printed Void Switches and an RP2040 microcontroller.
+An analog hall effect keyboard using [Void Switches](https://github.com/riskable/void_switch) in the traditional 87-key tenkeyless layout.
