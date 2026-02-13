@@ -13,4 +13,3 @@ An analog hall effect keyboard using [Void Switches](https://github.com/riskable
 - Rapid Trigger
 - SOCD
 - That Stupid Strap Attachment That Is A Trend In Hall Effect Keyboards
-- Gasket mount
