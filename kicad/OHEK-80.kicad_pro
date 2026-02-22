@@ -139,7 +139,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -563,7 +563,7 @@
       "plot": "C:/Users/aaron/Downloads/",
       "pos_files": "C:/Users/aaron/Downloads/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "OHEK-80.step",
       "svg": "",
       "vrml": ""
     },
@@ -608,7 +608,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -662,7 +662,7 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -705,8 +705,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "${EXCLUDE_FROM_BOM}"
     },
     "connection_grid_size": 50.0,
     "drawing": {
