@@ -561,7 +561,7 @@
       "idf": "",
       "netlist": "",
       "plot": "C:/Users/aaron/Downloads/",
-      "pos_files": "C:/Users/aaron/Downloads/",
+      "pos_files": "production/",
       "specctra_dsn": "",
       "step": "OHEK-80.step",
       "svg": "",

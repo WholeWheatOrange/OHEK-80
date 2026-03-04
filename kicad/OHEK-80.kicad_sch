@@ -22733,7 +22733,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C63224"
+		(property "LCSC" "C79382"
 			(at 657.86 119.38 90)
 			(effects
 				(font
@@ -23372,7 +23372,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C146054"
+		(property "LCSC" "C157923"
 			(at 508 179.07 0)
 			(effects
 				(font
@@ -27513,7 +27513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 500.38 215.9 0)
 			(effects
 				(font
@@ -29968,7 +29968,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C13875"
+		(property "LCSC" "C49318386"
 			(at 651.51 119.38 0)
 			(effects
 				(font
@@ -35261,7 +35261,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C63224"
+		(property "LCSC" "C79382"
 			(at 565.15 120.65 90)
 			(effects
 				(font
@@ -38169,7 +38169,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C13612"
+		(property "LCSC" "C7420376"
 			(at 709.93 179.07 0)
 			(effects
 				(font
@@ -43320,7 +43320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 496.57 129.54 0)
 			(effects
 				(font
@@ -49764,6 +49764,15 @@
 			)
 		)
 		(property "KLC_S4.2_VREG_VOUT" ""
+			(at 702.31 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1954754"
 			(at 702.31 121.92 0)
 			(effects
 				(font
